@@ -1,0 +1,12 @@
+.git
+.github
+node_modules
+.env
+.env.*
+*.pem
+*.key
+vps_ci_key
+known_hosts
+coverage
+npm-debug.log*
+.DS_Store

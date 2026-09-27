@@ -1,7 +1,7 @@
 {
   "name": "product-api-deployment",
   "version": "1.0.0",
-  "description": "Production-ready Product API for the deployment exercise",
+  "description": "Product API for the backend deployment classroom exercise",
   "type": "module",
   "main": "src/server.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "lint": "node --check src/app.js && node --check src/server.js"
   },
   "engines": {
-    "node": ">=20"
+    "node": "^24.0.0"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
